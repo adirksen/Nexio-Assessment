@@ -25,7 +25,7 @@ git clone https://github.com/adirksen/Nexio-Assessment.git
 2. Change to the project directory:
 
 ```bash
-cd nexio-express-payment-app
+cd Nexio-Assessment
 ```
 
 3. Install the required dependencies:
