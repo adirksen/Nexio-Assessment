@@ -19,7 +19,7 @@ Before you begin, make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/adirksen/nexio-express-payment-app.git
+git clone https://github.com/adirksen/Nexio-Assessment.git
 ```
 
 2. Change to the project directory:
