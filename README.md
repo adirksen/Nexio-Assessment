@@ -4,7 +4,7 @@ This is a simple Express app that allows users to process payments and fetch tra
 
 ## Features
 
-1. An endpoint to process a payment through Nexio's processing API.
+1. An endpoint to process a card payment through Nexio's processing API.
 2. An endpoint to fetch transactions from Nexio's transactions API.
 
 ## Prerequisites
