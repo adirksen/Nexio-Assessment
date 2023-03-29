@@ -51,7 +51,7 @@ replace `your_nexio_user` with your actual Nexio API user identifier.
 1. Start the server:
 
 ```console
-npm start
+node app.js
 ```
 
 The server will be running at `http://localhost:3000`.
